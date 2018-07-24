@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03b7f53-7f56-4aad-ac9b-606082651898" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/CommitMessageTemplateConfig.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
     </list>
@@ -29,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -227,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532443470235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="# &lt;type&gt;: (If applied, this commit will...) &lt;subject&gt; (Max 50 char)&#10;# |&lt;----  Using a Maximum Of 50 Characters  ----&gt;|&#10;&#10;&#10;# Explain why this change is being made&#10;# |&lt;----   Try To Limit Each Line to a Maximum Of 72 Characters   ----&gt;|&#10;&#10;# Provide links or keys to any relevant tickets, articles or other resources&#10;# Example: Github issue #23&#10;&#10;# --- COMMIT END ---&#10;# Type can be &#10;#    feat     (new feature)&#10;#    fix      (bug fix)&#10;#    refactor (refactoring production code)&#10;#    style    (formatting, missing semi colons, etc; no code change)&#10;#    docs     (changes to documentation)&#10;#    test     (adding or refactoring tests; no production code change)&#10;#    chore    (updating grunt tasks etc; no production code change)&#10;# --------------------&#10;# Remember to&#10;#    Capitalize the subject line&#10;#    Use the imperative mood in the subject line&#10;#    Do not end the subject line with a period&#10;#    Separate subject from body with a blank line&#10;#    Use the body to explain what and why vs. how&#10;#    Can use multiple lines with &quot;-&quot; for bullet points in body&#10;# --------------------&#10;# For more information about this template, check out&#10;# https://gist.github.com/adeekshith/cd4c95a064977cdc6c50">
+      <created>1532443726522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532443726522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +305,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit message" />
+    <MESSAGE value="# &lt;type&gt;: (If applied, this commit will...) &lt;subject&gt; (Max 50 char)&#10;# |&lt;----  Using a Maximum Of 50 Characters  ----&gt;|&#10;&#10;&#10;# Explain why this change is being made&#10;# |&lt;----   Try To Limit Each Line to a Maximum Of 72 Characters   ----&gt;|&#10;&#10;# Provide links or keys to any relevant tickets, articles or other resources&#10;# Example: Github issue #23&#10;&#10;# --- COMMIT END ---&#10;# Type can be &#10;#    feat     (new feature)&#10;#    fix      (bug fix)&#10;#    refactor (refactoring production code)&#10;#    style    (formatting, missing semi colons, etc; no code change)&#10;#    docs     (changes to documentation)&#10;#    test     (adding or refactoring tests; no production code change)&#10;#    chore    (updating grunt tasks etc; no production code change)&#10;# --------------------&#10;# Remember to&#10;#    Capitalize the subject line&#10;#    Use the imperative mood in the subject line&#10;#    Do not end the subject line with a period&#10;#    Separate subject from body with a blank line&#10;#    Use the body to explain what and why vs. how&#10;#    Can use multiple lines with &quot;-&quot; for bullet points in body&#10;# --------------------&#10;# For more information about this template, check out&#10;# https://gist.github.com/adeekshith/cd4c95a064977cdc6c50" />
+    <option name="LAST_COMMIT_MESSAGE" value="# &lt;type&gt;: (If applied, this commit will...) &lt;subject&gt; (Max 50 char)&#10;# |&lt;----  Using a Maximum Of 50 Characters  ----&gt;|&#10;&#10;&#10;# Explain why this change is being made&#10;# |&lt;----   Try To Limit Each Line to a Maximum Of 72 Characters   ----&gt;|&#10;&#10;# Provide links or keys to any relevant tickets, articles or other resources&#10;# Example: Github issue #23&#10;&#10;# --- COMMIT END ---&#10;# Type can be &#10;#    feat     (new feature)&#10;#    fix      (bug fix)&#10;#    refactor (refactoring production code)&#10;#    style    (formatting, missing semi colons, etc; no code change)&#10;#    docs     (changes to documentation)&#10;#    test     (adding or refactoring tests; no production code change)&#10;#    chore    (updating grunt tasks etc; no production code change)&#10;# --------------------&#10;# Remember to&#10;#    Capitalize the subject line&#10;#    Use the imperative mood in the subject line&#10;#    Do not end the subject line with a period&#10;#    Separate subject from body with a blank line&#10;#    Use the body to explain what and why vs. how&#10;#    Can use multiple lines with &quot;-&quot; for bullet points in body&#10;# --------------------&#10;# For more information about this template, check out&#10;# https://gist.github.com/adeekshith/cd4c95a064977cdc6c50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -325,7 +332,7 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
