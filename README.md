@@ -1,5 +1,34 @@
 # pris-skeleton
 
+
+private void processCommand() throws Exception{
+        Process p;
+        try {
+             p = Runtime.getRuntime().exec("/Users/minisha/Desktop/try/pris-skeleton/dbspris/src/main/resources/scptest.sh");
+
+            p.waitFor();
+            BufferedReader reader=new BufferedReader(new InputStreamReader(
+                    p.getInputStream()));
+            String line;
+            while((line = reader.readLine()) != null) {
+                System.out.println(line);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+#!/usr/bin/expect
+        spawn scp /Users/minisha/Desktop/try/pris-skeleton/test.txt root@127.94.0.2:/home
+        set pass "screencast"
+        expect {
+        password: {send "$pass\r"; exp_continue}
+                  }
+
+
+
+
 package sg.com.dbs.pris;
 
 import org.apache.tools.ant.Project;
