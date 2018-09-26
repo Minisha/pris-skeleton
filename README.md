@@ -1,4 +1,5 @@
 # pris-skeleton
+  publicKeyContent = publicKeyContent.replaceAll("\\n", "").replace("-----BEGIN PUBLIC KEY-----", "").replace("-----END PUBLIC KEY-----", "");;
 
 
 private void processCommand() throws Exception{
